@@ -1,4 +1,4 @@
-package com.launcher.mummu.kmagasin;
+package com.k.mummu.kmagasin;
 
 import org.junit.Test;
 
